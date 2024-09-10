@@ -9,7 +9,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-7953b3?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-sql-7953b3?style=flat-square&logo=sql&logoColor=white" />
 </p>
 
 <h3>My GitHub contributions summary</h3>
