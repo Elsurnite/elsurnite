@@ -12,7 +12,3 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-7953b3?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
 </p>
-
-// <h3>My GitHub contributions summary</h3>
-
-// [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elsurnite&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
