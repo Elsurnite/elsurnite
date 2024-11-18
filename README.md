@@ -10,4 +10,5 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-7953b3?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7953b3?style=flat-square&logo=Python&logoColor=white" />
 </p>
