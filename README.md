@@ -11,5 +11,5 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7953b3?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-2e2e2e?style=flat-square&logo=LARAVEL&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-2e2e2e?style=flat-square&logo=LARAVEL&logoColor=red" />
 </p>
