@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Eren Eroğlu!
+### 👋 Hi there, I'm Eren Eroglu!
 
 ---
 
