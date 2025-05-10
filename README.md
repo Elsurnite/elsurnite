@@ -8,7 +8,7 @@
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-2e2e2e?style=flat-square&logo=LARAVEL&logoColor=red" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-d2691e?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-2e2e2e?style=flat-square&logo=Flutter&logoColor=Blue" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-Built%20With-02569B?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
